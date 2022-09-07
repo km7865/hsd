@@ -1,0 +1,10 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+* {
+    font-family: 'Jeju Gothic', sans-serif;
+}
+
+
+body {
+    background-color: lightgrey;
+}

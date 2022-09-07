@@ -1,0 +1,26 @@
+
+.form_group {
+    width: 600px;
+    text-align: left;
+    height: 50px;
+    line-height: 50px;
+}
+
+.password_form {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form_label {
+    display: inline-block;
+    width: 130px;
+}
+
+.form_group > input {
+    width: 250px;
+    height: 20px;
+}
+
+.form_group > span {
+    width: 100px;
+    color: red;
+}

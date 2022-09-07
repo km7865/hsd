@@ -1,0 +1,50 @@
+
+.order_div {
+    position: absolute;
+    top: 350px;
+    width: 100%;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    text-align: center;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+.title_div {
+    width: 60%;
+    height: 50px;
+}
+
+.title_span {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#btn_area {
+    height: 60px;
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+.page_span {
+    display: inline-block;
+    width: 33%;
+}
+
+#prev {
+    float: left;
+    width: 60px;
+    height: 30px;
+}
+
+#next {
+    float: right;
+    width: 60px;
+    height: 30px;
+}

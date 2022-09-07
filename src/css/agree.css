@@ -1,0 +1,12 @@
+
+.all_check {
+    position: relative;
+    top: 100px;
+}
+
+.nextBtn {
+    width: 60px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+}
